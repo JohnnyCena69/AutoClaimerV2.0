@@ -3,7 +3,24 @@
 // @namespace    stakeclaimer
 // @version      4.5
 // @description  Auto claim drops + VIP reload
-// @match        https://stake.com/*
+// @match        https://stake.com/*settings/offers*
+// @match        https://stake.ac/*settings/offers*
+// @match        https://stake.games/*settings/offers*
+// @match        https://stake.bet/*settings/offers*
+// @match        https://stake.pet/*settings/offers*
+// @match        https://stake.mba/*settings/offers*
+// @match        https://stake.jp/*settings/offers*
+// @match        https://stake.bz/*settings/offers*
+// @match        https://stake.ceo/*settings/offers*
+// @match        https://stake.krd/*settings/offers*
+// @match        https://staketr.com/*settings/offers*
+// @match        https://stake1001.com/*settings/offers*
+// @match        https://stake1002.com/*settings/offers*
+// @match        https://stake1003.com/*settings/offers*
+// @match        https://stake1021.com/*settings/offers*
+// @match        https://stake1022.com/*settings/offers*
+// @match        https://stake.us/settings/offers*
+// @match        https://stake.br/settings/offers*
 // @grant        unsafeWindow
 // @grant        GM_getValue
 // @grant        GM_setValue
